@@ -76,6 +76,13 @@ public class SaveImage extends Component implements ActionListener {
  
     int lastOp;
     public void filterImage() {
+        
+         /*chamada strategy
+    
+        FilterStrategy filtro;
+    
+        public*/
+         
         BufferedImageOp op = null;
  
         if (opIndex == lastOp) {
@@ -174,4 +181,6 @@ public class SaveImage extends Component implements ActionListener {
         f.pack();
         f.setVisible(true);
     }
+    
+   
 }

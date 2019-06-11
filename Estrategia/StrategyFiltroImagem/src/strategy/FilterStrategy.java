@@ -11,4 +11,7 @@ package strategy;
  */
 public class FilterStrategy {
     
+    public void aplicarFiltro(){
+    
+    }
 }

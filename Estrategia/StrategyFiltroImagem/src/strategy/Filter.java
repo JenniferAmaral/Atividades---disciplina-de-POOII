@@ -10,5 +10,13 @@ package strategy;
  * @author jennifer
  */
 public class Filter {
+    private FilterStrategy filter;
     
+    public void aplicaFiltro(){
+    
+    }
+    
+    public void setFilterStrategy(){
+    
+    }
 }

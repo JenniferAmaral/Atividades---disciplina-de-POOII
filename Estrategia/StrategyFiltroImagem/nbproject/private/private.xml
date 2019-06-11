@@ -3,7 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/felip/Documents/GitHub/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/SaveImage.java</file>
+            <file>file:/home/jennifer/NetBeansProjects/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/LookupFilterStrategy.java</file>
+            <file>file:/home/jennifer/NetBeansProjects/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/Filter.java</file>
+            <file>file:/home/jennifer/NetBeansProjects/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/SharpenFilterStrategy.java</file>
+            <file>file:/home/jennifer/NetBeansProjects/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/LowPassFilterStrategy.java</file>
+            <file>file:/home/jennifer/NetBeansProjects/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/SaveImage.java</file>
+            <file>file:/home/jennifer/NetBeansProjects/poo2/Padroes_de_Projeto/Comportamental/Estrategia/StrategyFiltroImagem/src/strategy/FilterStrategy.java</file>
         </group>
     </open-files>
 </project-private>
